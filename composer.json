@@ -1,10 +1,10 @@
 {
-    "name": "sofa/eloquence-mappable",
+    "name": "thomisticus/eloquence-mappable",
     "description": "Flexible Searchable, Mappable, Metable, Validation and more extensions for Laravel Eloquent ORM.",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/jarektkaczyk/eloquence-mappable/issues",
-        "source": "https://github.com/jarektkaczyk/eloquence-mappable"
+        "issues": "https://github.com/thomisticus/eloquence-mappable/issues",
+        "source": "https://github.com/thomisticus/eloquence-mappable"
     },
     "keywords": [
         "laravel",
